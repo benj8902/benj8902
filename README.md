@@ -15,6 +15,8 @@ I’m actively seeking **entry level front-end software engineering** roles wher
 ## 🚀 Current Projects
 - Building a **React.js login page** with phone number verification.
 - Developing a **transcription app** using **Python** and **PyAudio** for real-time speech-to-text transcription.
+- Personal website using almost exclusively **HTML/CSS**
+- Python **Password Generator** with functioning GUI and password storage system
   
 ## 📚 Education
 - **Bachelor's in Computer Science**  
