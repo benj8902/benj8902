@@ -1,40 +1,43 @@
-# 👋 Hello, I'm Ben Jacobs!
+# Hi, I'm Ben Jacobs 👋
 
-I'm a 4th-year **Computer Science** student at the **University of Georgia**, graduating in December 2024. I have a passion for **software engineering**, **web development**, and a growing interest in **cyber security**. Currently, I’m honing my skills in **React** and working toward becoming an **AWS Certified Cloud Technician**.
+**Software developer who builds and tests AI automation.** I write end-to-end test suites, build LLM-powered tools, and care about whether software actually works for the people using it.
 
-## 🎯 What I'm Looking For
-I’m actively seeking **entry level front-end software engineering** roles where I can apply my skills and continue to grow as a developer.
+📍 Clearwater, FL (Tampa Bay) · 🎓 B.S. Computer Science, University of Georgia · 💼 Open to QA / test automation, AI automation and junior developer roles
 
-## 🛠️ Skills & Interests
-- **Languages:** JavaScript, Python, Java
-- **Web Development:** React.js, HTML, CSS
-- **Cloud Computing:** AWS (working on certification)
-- **Cyber Security Enthusiast**
-- **Web3:** Currently researching Web3 and some of its applications
+---
 
-## 🚀 Current Projects
-- Building a **React.js login page** with phone number verification.
-- Developing a **transcription app** using **Python** and **PyAudio** for real-time speech-to-text transcription.
-- Personal website using almost exclusively **HTML/CSS**
-- Python **Password Generator** with functioning GUI and password storage system
-  
-## 📚 Education
-- **Bachelor's in Computer Science**  
-  University of Georgia (Graduating December 2024)
+## What I'm building
 
-## 🎉 Fun Facts About Me
-- Recently married in **June 2024** ❤️
-- I’m 22 years old
-- I enjoy **day trading** in the futures market 📈
-- In my free time, I love **working out**, watching **football**, playing **pickleball**, and **video games** 🎮
+**[FrontDesk AI](https://github.com/benj8902/frontdesk-ai)** *(in progress)*
+An AI front-desk assistant for local service businesses. It answers customer questions from the business's own information, captures leads and alerts the owner, without inventing prices. Built with Next.js, TypeScript and the Claude API, with an eval suite of trap questions (price bait, prompt injection, services the business doesn't offer) that checks the AI behaves before anything ships.
 
-## 📧 Get in Touch
-Feel free to reach out to me via email at **benj080902@gmail.com** or at my LinkedIn at **https://www.linkedin.com/in/ben-jacobs-dev/**. I'm always open to networking and exciting new opportunities!
+**[Saucedemo Playwright Test Suite](https://github.com/benj8902/saucedemo-playwright)**
+UI and API test automation in Playwright and TypeScript: 31 tests running in Chromium, Firefox and WebKit on every push through GitHub Actions. It uses the Page Object Model, includes API tests with authentication and a 403 negative test, and documents 7 real defects found through exploratory testing.
 
-Thanks for stopping by! 😄
+## Experience
 
+**Junior Developer, Microf** (consumer financing) · 2025–2026
+- Used Claude to analyze customer complaints and chat logs during a rebuild of the customer support chatbot, and turned the findings into production updates
+- Wrote positive and negative API test cases in Postman to validate database upgrades and schema changes
+- Built and maintained customer intake and support workflows in Jotform and Chatbot.com
+- Supported employees and customers as part of the IT help desk
 
-<!---
-benj8902/benj8902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech
+
+**Languages:** TypeScript, JavaScript, Python, Java, SQL
+**Testing:** Playwright, Postman, evals for LLM applications, GitHub Actions CI
+**AI:** Claude API, prompt design, tool use
+**Web:** Next.js, React, HTML, CSS
+**Learning now:** Supabase (Postgres), retrieval (RAG), deployment on Vercel
+
+## Earlier projects
+
+[Speech-to-Text Transcription](https://github.com/benj8902/Speech-to-Text-Transcription) (Python) · [React Login Page](https://github.com/benj8902/react-login-page) · [Password Generator](https://github.com/benj8902/Password-Generator) (Python) · [Personal Portfolio Site](https://github.com/benj8902/Personal-Portfolio-Site) (HTML/CSS)
+
+## Outside of code
+
+Trading futures, lifting, pickleball and football.
+
+## Contact
+
+📧 benj080902@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ben-jacobs-dev/)
