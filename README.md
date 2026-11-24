@@ -40,4 +40,4 @@ Trading futures, lifting, pickleball and football.
 
 ## Contact
 
-📧 benj080902@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ben-jacobs-dev/)
+📧 benj080902@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/benjaminjacobs8902/)
